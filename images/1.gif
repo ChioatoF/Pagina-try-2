@@ -8,9 +8,9 @@
     <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
             
             <script id="loader-script" type="text/javascript"
-                    src="//capp.nicepage.com/1fd39372a624e5db9973af25d76427670e3deec8/loader.js?ver=3.12.2"
+                    src="//capp.nicepage.com/2af0f6fb9defe761d85e9e5d9f7b2e6f3c93e7da/loader.js?ver=3.12.2"
                     data-swurl="sw.js"
-                    data-assets="//capp.nicepage.com/1fd39372a624e5db9973af25d76427670e3deec8/"
+                    data-assets="//capp.nicepage.com/2af0f6fb9defe761d85e9e5d9f7b2e6f3c93e7da/"
                     data-processor="site">
             </script>
 </head>
